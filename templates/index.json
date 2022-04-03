@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/background.png",
+        "image_2": "shopify:\/\/shop_images\/header-cropped_18e30749-8988-4521-b194-c6a48fbcf386.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -55,7 +55,7 @@
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
-        "padding_bottom": 32
+        "padding_bottom": 72
       }
     },
     "1648904366d33e3ea4": {
@@ -64,7 +64,7 @@
         "1648904366671346af-0": {
           "type": "heading",
           "settings": {
-            "heading": "Get Notified When Tickets Go On Sale",
+            "heading": "Exclusive Pre-Sale Access",
             "heading_size": "h1"
           }
         },
@@ -95,18 +95,18 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Grab Some Sweet Merch",
+        "title": "MERCH",
         "heading_size": "h1",
         "collection": "spring-2022",
         "products_to_show": 3,
         "columns_desktop": 3,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "show_view_all": false,
         "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
@@ -115,12 +115,12 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "Checkout our new video",
+        "heading": "VIDEO",
         "heading_size": "h1",
         "cover_image": "shopify:\/\/shop_images\/maxresdefault_0c2d3840-adde-4445-bf01-7c60cc5e4f1f.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=rhjZCJbIIRk",
         "description": "",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
