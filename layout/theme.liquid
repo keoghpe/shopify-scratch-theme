@@ -23,6 +23,13 @@
     src: local('Baskerville BT Bold'), url({{ 'BaskervilleBoldBT.woff' | asset_url }}) format('woff');
     }
     </style>
+    
+    <script>
+      // expire the service worker cache
+      if(caches) {
+	    caches.keys().then(function(cacheNames) { caches.delete(cacheNames) })
+      }
+    </script>
 
     <title>
       {{ page_title }}

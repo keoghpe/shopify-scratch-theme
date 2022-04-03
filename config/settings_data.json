@@ -11,9 +11,9 @@
     "gradient_background_1": "",
     "colors_background_2": "#ffffff",
     "gradient_background_2": "",
-    "type_header_font": "libre_baskerville_n4",
+    "type_header_font": "baskerville_no_2_n4",
     "heading_scale": 100,
-    "type_body_font": "libre_baskerville_n4",
+    "type_body_font": "baskerville_no_2_n4",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -136,7 +136,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/logo-cropped.png",
               "image_width": 200,
-              "alignment": ""
+              "alignment": "center"
             }
           }
         },
@@ -145,7 +145,7 @@
         ],
         "settings": {
           "color_scheme": "background-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our Mailing List",
           "show_social": true,
           "enable_country_selector": false,
