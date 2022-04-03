@@ -11,6 +11,11 @@
   }
 }
 
+.collection h2 {
+  text-align: center;
+  width: 100%;
+}
+
 .collection .loading-overlay {
   top: 0;
   right: 0;

@@ -43,10 +43,17 @@
   --color-foreground: var(--color-base-accent-2);
 }
 
+body {
+  background-image: url("./Background_Texture.png");
+  background-repeat: repeat;
+}
+
 :root,
 .color-background-1 {
   --color-link: var(--color-base-outline-button-labels);
   --alpha-link: 0.85;
+  background-image: url("./Background_Texture.png");
+  background-repeat: repeat;
 }
 
 .color-background-2,
@@ -282,7 +289,7 @@ body,
 .color-inverse,
 .color-accent-1,
 .color-accent-2 {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-foreground), 1);
   background-color: rgb(var(--color-background));
 }
 
@@ -2706,18 +2713,6 @@ details-disclosure > details {
   border-color: rgba(var(--color-badge-border), var(--alpha-badge-border));
   color: rgb(var(--color-foreground));
   word-break: break-word;
-}
-
-/* .gradient {
-  background: rgb(var(--color-background));
-  background: var(--gradient-background);
-  background-attachment: fixed;
-} */
-  
-  
-.gradient {
-  background-image: url("./Background_Texture.png");
-  background-repeat: repeat;
 }
 
 @media screen and (forced-colors: active) {
