@@ -130,10 +130,23 @@
       },
       "footer": {
         "type": "footer",
+        "blocks": {
+          "b1ddc92a-c494-4532-aa61-3f97e67fb67b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo-cropped.png",
+              "image_width": 200,
+              "alignment": ""
+            }
+          }
+        },
+        "block_order": [
+          "b1ddc92a-c494-4532-aa61-3f97e67fb67b"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "Subscribe to our Mailing List",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,

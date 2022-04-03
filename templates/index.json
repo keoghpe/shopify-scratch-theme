@@ -44,7 +44,7 @@
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
+        "stack_images_on_mobile": true,
         "show_text_below": false
       }
     },
@@ -71,7 +71,7 @@
         "1648904366671346af-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Sign up to our mailing list to get exclusive access to ticket links for our Irish tour before we release them elsewhere.<\/p>"
+            "text": "<p>Sign up to our mailing list to get early access to tickets before anyone else!<\/p>"
           }
         },
         "1648904366671346af-2": {
